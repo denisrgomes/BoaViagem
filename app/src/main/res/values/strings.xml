@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BoaViagem</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="error_authentication">Usuário ou senha inválidos!</string>
+</resources>
